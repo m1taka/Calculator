@@ -94,5 +94,3 @@ namespace Calculator
         }
     }
 }
-//How to Create a Calculator in Visual Studio C#
-//
